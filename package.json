@@ -2,7 +2,7 @@
   "name": "mint",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://confluxfan.github.io/medallion/",
+  "homepage": "https://confluxfan.github.io/ABCMedallion/",
   "type": "module",
   "scripts": {
     "dev": "vite",
